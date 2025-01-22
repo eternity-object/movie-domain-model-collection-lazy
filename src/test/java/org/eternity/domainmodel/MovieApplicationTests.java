@@ -1,4 +1,4 @@
-package org.eternity.movie;
+package org.eternity.domainmodel;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

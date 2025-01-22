@@ -1,4 +1,4 @@
-package org.eternity.movie.persistence;
+package org.eternity.domainmodel.persistence;
 
 import jakarta.persistence.EntityManager;
 import org.eternity.domainmodel.generic.Money;
