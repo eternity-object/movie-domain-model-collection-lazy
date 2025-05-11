@@ -15,7 +15,7 @@ import java.time.LocalTime;
 import java.util.Set;
 
 @DataJpaTest(showSql = false)
-public class JpaLazyTest {
+public class JpaEagerTest {
 	@Autowired
 	private EntityManager em;
 
